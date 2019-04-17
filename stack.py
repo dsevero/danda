@@ -1,5 +1,4 @@
 from linked_list import LinkedList
-from functools import reduce
 
 
 class Stack(LinkedList):
